@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td width="96" align="center"><a href="https://macrobandit.at"><img src="https://raw.githubusercontent.com/CrashBandit82/macrobandit/main/frontend/public/icon-192.png" width="72" alt="MacroBandit"></a></td>
+    <td width="96" align="center"><a href="https://macrobandit.at"><img src="https://raw.githubusercontent.com/CrashBandit82/macrobandit/main/frontend/public/logo.png" width="72" alt="MacroBandit"></a></td>
     <td>
       <b><a href="https://github.com/CrashBandit82/macrobandit">MacroBandit</a></b> · <a href="https://macrobandit.at">macrobandit.at</a><br>
       Kostenloser, werbefreier Makro- &amp; Kalorien-Tracker: Barcode scannen, grammgenau erfassen, Bedarf ausrechnen, Woche und Monat auswerten. Als App am Handy installierbar (PWA).
