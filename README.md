@@ -2,7 +2,7 @@
 
 <p align="center">
   Ich kaufe ungern fertige Lösungen, wenn ich sie auch selbst bauen kann.<br>
-  Daraus sind zwei Apps geworden, ein eigener Server zu Hause und ein Haus, das mitdenkt.
+  Daraus sind ein paar Apps geworden, ein eigener Server zu Hause und ein Haus, das mitdenkt.
 </p>
 
 ---
@@ -22,6 +22,20 @@
     <td>
       <b><a href="https://github.com/CrashBandit82/ironbandit">IronBandit</a></b> · <a href="https://ironbandit.at">ironbandit.at</a><br>
       Kostenloses Trainingstagebuch fürs Krafttraining: eigene Übungen und Pläne, jeden Satz live im Studio mitschreiben, Fortschritt und Bestleistungen sehen.
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center"><a href="https://github.com/CrashBandit82/shopbandit"><img src="https://raw.githubusercontent.com/CrashBandit82/shopbandit/main/app/assets/branding/store-icon.png" width="72" alt="ShopBandit"></a></td>
+    <td>
+      <b><a href="https://github.com/CrashBandit82/shopbandit">ShopBandit</a></b> · <a href="https://github.com/CrashBandit82/shopbandit/releases/latest">Android-App</a><br>
+      Gemeinsame Einkaufsliste für die ganze Familie: funktioniert offline, Einladung per QR-Code, „Häufig gekauft“, Benachrichtigungen ohne Google. Eigener Server statt Cloud.
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center"><a href="https://github.com/CrashBandit82/tachobandit"><img src="https://raw.githubusercontent.com/CrashBandit82/tachobandit/main/server/static/logo.svg" width="72" alt="TachoBandit"></a></td>
+    <td>
+      <b><a href="https://github.com/CrashBandit82/tachobandit">TachoBandit</a></b><br>
+      Tachografen-Daten selbst verwalten: Fahrerkarte und Fahrzeug auslesen, Lenk- und Ruhezeiten ansehen und auf Verstöße prüfen. Läuft in Docker.
     </td>
   </tr>
   <tr>
@@ -47,6 +61,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat&logo=pocketbase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
