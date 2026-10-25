@@ -32,6 +32,13 @@
     </td>
   </tr>
   <tr>
+    <td width="96" align="center"><a href="https://github.com/CrashBandit82/CashBandit"><img src="https://raw.githubusercontent.com/CrashBandit82/CashBandit/main/assets/branding/store-icon.png" width="72" alt="CashBandit"></a></td>
+    <td>
+      <b><a href="https://github.com/CrashBandit82/CashBandit">CashBandit</a></b> · <a href="https://github.com/CrashBandit82/CashBandit/releases/latest">Android-App</a><br>
+      Kassabuch fürs Handy: Einnahmen und Ausgaben nach Kategorien, bunte Diagramme, wiederkehrende Buchungen, Sperre mit Fingerabdruck. 100 % offline – ganz ohne Internet-Berechtigung.
+    </td>
+  </tr>
+  <tr>
     <td width="96" align="center"><a href="https://github.com/CrashBandit82/tachobandit"><img src="https://raw.githubusercontent.com/CrashBandit82/tachobandit/main/server/static/logo.svg" width="72" alt="TachoBandit"></a></td>
     <td>
       <b><a href="https://github.com/CrashBandit82/tachobandit">TachoBandit</a></b><br>
