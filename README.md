@@ -11,17 +11,17 @@
 
 <table>
   <tr>
-    <td width="96" align="center"><a href="https://macrobandit.at"><img src="https://raw.githubusercontent.com/CrashBandit82/macrobandit/main/frontend/public/logo.png" width="72" alt="MacroBandit"></a></td>
+    <td width="96" align="center"><a href="https://github.com/CrashBandit82/macrobandit"><img src="https://raw.githubusercontent.com/CrashBandit82/macrobandit/main/logo.png" width="72" alt="MacroBandit"></a></td>
     <td>
-      <b><a href="https://github.com/CrashBandit82/macrobandit">MacroBandit</a></b> · <a href="https://macrobandit.at">macrobandit.at</a><br>
-      Kostenloser, werbefreier Makro- &amp; Kalorien-Tracker: Barcode scannen, grammgenau erfassen, Bedarf ausrechnen, Woche und Monat auswerten. Als App am Handy installierbar (PWA).
+      <b><a href="https://github.com/CrashBandit82/macrobandit">MacroBandit</a></b> · <a href="https://github.com/CrashBandit82/macrobandit/releases/latest">Android-App</a> · <a href="https://macrobandit.at">macrobandit.at</a><br>
+      Makro- &amp; Kalorien-Tracker: Schnelleingabe wie „200g Milch“, Barcode scannen, 7 140 Grundlebensmittel offline, Woche und Monat auswerten. Ohne Konto – alle Daten bleiben am Handy.
     </td>
   </tr>
   <tr>
-    <td width="96" align="center"><a href="https://ironbandit.at"><img src="https://raw.githubusercontent.com/CrashBandit82/ironbandit/main/frontend/public/icon-192.png" width="72" alt="IronBandit"></a></td>
+    <td width="96" align="center"><a href="https://github.com/CrashBandit82/ironbandit"><img src="https://raw.githubusercontent.com/CrashBandit82/ironbandit/main/logo.png" width="72" alt="IronBandit"></a></td>
     <td>
-      <b><a href="https://github.com/CrashBandit82/ironbandit">IronBandit</a></b> · <a href="https://ironbandit.at">ironbandit.at</a><br>
-      Kostenloses Trainingstagebuch fürs Krafttraining: eigene Übungen und Pläne, jeden Satz live im Studio mitschreiben, Fortschritt und Bestleistungen sehen.
+      <b><a href="https://github.com/CrashBandit82/ironbandit">IronBandit</a></b> · <a href="https://github.com/CrashBandit82/ironbandit/releases/latest">Android-App</a> · <a href="https://ironbandit.at">ironbandit.at</a><br>
+      Trainingstagebuch fürs Krafttraining: eigene Pläne, jeden Satz live im Studio mitschreiben, Pausentimer mit Benachrichtigung, Pläne mit Freunden teilen. 100 % offline – ganz ohne Internet-Berechtigung.
     </td>
   </tr>
   <tr>
